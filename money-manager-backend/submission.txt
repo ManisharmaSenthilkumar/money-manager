@@ -1,0 +1,47 @@
+<<<<<<< HEAD
+Money Manager Submission Details
+
+Frontend GitHub Repo:
+https://github.com/ManisharmaSenthilkumar/money-manager-frontend
+
+Backend GitHub Repo:
+https://github.com/ManisharmaSenthilkumar/money-manager-backend
+
+Backend Deployment URL:
+https://money-manager-backend-n115.onrender.com
+
+Frontend Deployment URL:
+https://money-manager-frontend-puce.vercel.app/
+
+
+Last Commit Hash (Backend):
+c1c2809f5bf0a4dd1e1c57e578dd18ff3fc0ab02
+
+=======
+Frontend: https://money-manager-frontend-puce.vercel.app/
+Backend: https://money-manager-backend-1-08bf.onrender.com
+
+Frontend Repo: https://github.com/ManisharmaSenthilkumar/money-manager-frontend
+Backend Repo: https://github.com/ManisharmaSenthilkumar/money-backend-frontend
+
+Last Commit Hash Frontend: fcb5b4cd92c19c353b4ec796e248490f051b8b18
+Last Commit Hash Backend: c1c2809f5bf0a4dd1e1c57e578dd18ff3fc0ab02
+
+google drive video link : https://drive.google.com/file/d/14leHeTI9f9NSwAlkM8enUpJz6V-QOks4/view?usp=sharing
+
+Project Description:
+
+Money Manager is a personal finance web application that helps users 
+track income, expenses, transfers, and account balances. 
+The dashboard provides weekly, monthly, and yearly summaries 
+of income and expenditure along with recent transaction history.
+ Users can add transactions through a modal with separate income
+and expense tabs, categorize them (fuel, food, medical, etc.), and
+assign divisions (Personal/Office). The application also supports filtering 
+transactions by category, division, and date range. Reports page provides 
+interactive charts such as trend graphs and category-wise spending analysis. 
+Accounts page shows account balances and transfer history. 
+All updates reflect across the application instantly since the data 
+is stored in MongoDB Atlas and fetched through the backend API. 
+The project is deployed with a public frontend and backend URL.
+>>>>>>> 0f33d76d8af8cc48a3046af1de5c722252591b5c

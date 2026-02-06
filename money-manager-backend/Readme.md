@@ -1,0 +1,131 @@
+<<<<<<< HEAD
+# 💰 Money Manager - Backend
+
+Backend API for Money Manager application.  
+Handles transactions, accounts, categories, and transfer updates with MongoDB Atlas.
+
+---
+
+## 🚀 Live API
+
+ Backend URL: (https://money-manager-backend-1-08bf.onrender.com)
+
+---
+
+## 🧠 Features
+
+    REST API for Transactions  
+    REST API for Accounts  
+    Income / Expense tracking  
+    Transfers between accounts  
+    MongoDB Atlas integration  
+    CRUD operations  
+    CORS enabled for frontend deployment  
+
+---
+
+## 🛠 Tech Stack
+
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Mongoose
+- dotenv
+- cors
+
+---
+
+## 📂 Project Structure
+
+money-manager-backend/
+├── models/
+├── routes/
+├── controllers/
+├── server.js
+├── package.json
+├── .env
+
+## ⚙️ Installation & Setup
+
+### 1️. Clone the repo
+
+    git clone https://github.com/ManisharmaSenthilkumar/money-manager-backend
+
+    cd money-manager-backend
+
+
+### 2. Install Dependencies
+
+    npm install
+
+### 3. Create .env file
+
+    Create a .env file in the root folder:
+
+    MONGO_URI=your_mongodb_atlas_connection_string
+
+    Example:
+    
+    MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/moneymanager
+
+
+### 4. Run Locally
+
+    npm run dev
+
+    API will run at:
+
+                    http://localhost:5000
+
+
+API Endpoints
+
+                     Transactions
+
+Method	        Endpoint	                       Description
+GET	            /api/transactions	            Get all transactions
+POST	        /api/transactions	            Add new transaction
+PUT	            /api/transactions/:id	        Update transaction
+DELETE	        /api/transactions/:id	        Delete transaction
+
+
+                    Accounts
+
+Method	        Endpoint	                        Description
+GET	            /api/accounts	                Get all accounts
+POST	        /api/accounts	                Create account
+PUT	            /api/accounts/:id	            Update account
+DELETE	        /api/accounts/:id	            Delete account
+=======
+# Money Manager Application
+
+This project contains both frontend and backend.
+
+##  Frontend
+- React + TailwindCSS
+- Folder: `/frontend`
+
+##  Backend
+- Node.js + Express + MongoDB Atlas
+- Folder: `/backend`
+
+##  Live Links
+Frontend: https://money-manager-frontend-puce.vercel.app/
+Backend: https://money-manager-backend-1-08bf.onrender.com
+
+##  Demo Video
+(https://drive.google.com/file/d/14leHeTI9f9NSwAlkM8enUpJz6V-QOks4/view?usp=sharing)
+
+##  How to Run Locally
+
+        ### Backend
+        cd backend
+        npm install
+        npm start
+
+
+        ### Frontend
+        cd frontend
+        npm install
+        npm run dev
+>>>>>>> 0f33d76d8af8cc48a3046af1de5c722252591b5c

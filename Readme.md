@@ -11,7 +11,7 @@ This project contains both frontend and backend.
 - Folder: `/backend`
 
 ##  Live Links
-Frontend: https://money-manager-frontend-puce.vercel.app/
+Frontend: https://money-manager-frontend-ebon.vercel.app/
 Backend: https://money-manager-backend-1-08bf.onrender.com
 
 ##  Demo Video
